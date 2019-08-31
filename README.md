@@ -1,3 +1,3 @@
 this is a git lesson
 
-#add chapter 6#
+chapter 6 add karde bhai
